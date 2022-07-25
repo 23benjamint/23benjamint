@@ -1,5 +1,5 @@
 title = "For the Betta App"
-baseURL = "https://23benjamint.github.io/"
+baseURL = "https://23benjamint.github.io/23benjamint/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
