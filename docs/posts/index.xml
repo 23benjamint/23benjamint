@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://23benjamint.github.io/23benjamint/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>What is For the Betta?</title>
+      <link>https://23benjamint.github.io/23benjamint/posts/my-first-post/</link>
+      <pubDate>Wed, 20 Jul 2022 20:17:59 -0700</pubDate>
+      
+      <guid>https://23benjamint.github.io/23benjamint/posts/my-first-post/</guid>
+      <description>For the Betta is an app that would recognize the species of fish through the input of an image given by the user. This interface utilizes a neural network to train itself to understand each image.</description>
+    </item>
+    
+    <item>
       <title>Implementation and Refrence Links</title>
       <link>https://23benjamint.github.io/23benjamint/posts/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
