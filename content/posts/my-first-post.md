@@ -1,7 +1,7 @@
 ---
 title: "What is For the Betta?"
 date: 2022-07-20T20:17:59-07:00
-featured_image: '/images/Swirling_fish_schools.jpeg'
+featured_image: '/images/bettafish.jpeg'
 draft: false
 ---
 
